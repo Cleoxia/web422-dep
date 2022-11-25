@@ -33,7 +33,9 @@ export default function Vehicles() {
                 <td>{vehicle.make}</td>
                 <td>{vehicle.model}</td>
                 <td>{vehicle.vin}</td>
+                <td>Make a change here!</td>
               </tr>
+
             ))}
 
           </tbody>
